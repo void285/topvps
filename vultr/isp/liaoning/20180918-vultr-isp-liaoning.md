@@ -4,7 +4,7 @@
 
 本文是[TopVPS主机网络测试报告系列](https://vps123.top/pingtest)的一部分，主要提供PING测试的响应速度、丢包率等数据，关于PING指令以及响应速度、丢包率的指标意义，请看[这里](https://vps123.top/what-is-ping.html)。
 
-![辽宁到Vultr各机房的测速数据（20180918）]()
+![辽宁到Vultr各机房的测速数据（20180918）](/images/thumbnails/Liaoning_to_vultr.png)
 
 本文的数据视角为 **辽宁到[Vultr](https://vps123.top/go/vultr)的各机房**的PING响应值、丢包率的比较；若你在辽宁且打算运行[Vultr](https://vps123.top/go/vultr)的云主机，用作代理服务器、云存储、云计算等，下面的内容很值得你深入了解。若有响应值接近、丢包率差距大的多个机房可选择，请优先选择丢包率低的；若Vultr的这些机房的数据都不理想，你可以查看本文结尾链接的其他VPS提供商的数据，发现可用性更好的机房。
 
